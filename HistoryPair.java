@@ -10,7 +10,7 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 
 /**
- * @author Alex
+ * @author
  *
  */
 @JsonAutoDetect(fieldVisibility = Visibility.NON_PRIVATE, getterVisibility = Visibility.NONE, creatorVisibility = Visibility.NON_PRIVATE)
